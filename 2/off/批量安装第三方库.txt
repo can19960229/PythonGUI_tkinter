@@ -1,0 +1,11 @@
+#第三方库自动安装的代码
+#批量安装库
+
+import os
+libs = {"numpy","matplotlib","jieb","pillow"}
+try:
+	for lib in libs:
+		os.system("pip install "+lib)
+	print("successful")
+except:
+	print("failed somehow")
