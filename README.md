@@ -1,7 +1,7 @@
 # PythonGUI_tkinter
 这是用python中的tkinter写的GUI界面
 
-# Python_course
+
 ## 文件夹——1
 根据MOOC中国大学的python精品课，用turtle库实现的几个demo
   1. 计算努力天数和勤奋程度带来的效益——1.py
